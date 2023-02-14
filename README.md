@@ -10,3 +10,11 @@ USER = 'u34fj167ueyefcxb' <br>
 PASSWORD = 'YbXSprdtTvqX7TVdp05F'
 
 ### Router Links
+ get: /
+ get: /published
+ get: /1
+
+ post: /
+ delete: /1
+ put: /1
+
